@@ -1,4 +1,4 @@
-# grabar una tabla en la EEPROM - TP2 - Laboratorio de microprocesadores
+# Grabar una tabla en la EEPROM - TP2 - Laboratorio de microprocesadores
 
 **1. Objetivo**
 El objetivo de este trabajo práctico es aprender acerca del uso de
